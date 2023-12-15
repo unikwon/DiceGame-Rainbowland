@@ -1,0 +1,13 @@
+#root {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 2rem;
+
+}
+
+h1 {
+    font-size: medium;
+    margin: 5em;
+    color: #1A237E;
+    text-align: center;
+}

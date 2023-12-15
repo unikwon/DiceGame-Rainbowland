@@ -1,0 +1,14 @@
+.Board {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    padding-top: 0.3%;
+    font-size: 70px;
+    color: blue;
+    text-align: center;
+    transition: opacity 0.2s;
+}
+
+.Board:hover {
+    opacity: 0.7;
+}

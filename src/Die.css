@@ -1,0 +1,14 @@
+.Die {
+    background-color: rgb(67, 55, 164);
+    border-radius: 15px;
+    color: white;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 0.4em;
+    text-align: center;
+    margin-right: 0.3em;
+    margin-top: -1em;
+    font-weight: bold;
+    font-size: 1.5em;
+}

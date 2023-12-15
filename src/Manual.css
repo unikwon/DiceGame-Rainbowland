@@ -1,0 +1,62 @@
+.manual {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column;
+    align-items: center; */
+    width: 700px;
+}
+
+
+h2 {
+    font-size: 2em;
+    color: #2E7D32;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#orange {
+    color: #FF6F00;
+    font-weight: bold;
+}
+
+#blue {
+    color: blue;
+    font-weight: bold;
+}
+
+
+#rainbow {
+    font-weight: bold;
+    color: #673AB7;
+}
+
+#movement {
+    font-weight: bold;
+    color: #FF1744;
+    text-indent: 3ch;
+}
+
+#dice {
+    background-color: #FFF176;
+    color: #1A237E;
+}
+
+#die {
+    background-color: rgb(67, 55, 164);
+    color: white;
+    padding: 2px;
+}
+
+#number {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+ul {
+    text-align: left;
+    font-weight: bold;
+}
