@@ -11,3 +11,10 @@ h1 {
     color: #1A237E;
     text-align: center;
 }
+
+#copy {
+    font-size: 1rem;
+    color: #283593;
+    text-align: center;
+    padding: 2rem;
+}

@@ -37,6 +37,9 @@ function App() {
 
         </Stack>
       </div>
+
+      <div id="copy">&copy; EunKwon / unikwon20@gmail.com</div>
+
     </>
   )
 }

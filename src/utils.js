@@ -7,11 +7,8 @@ function getRolls(n) {
 }
 
 function sum(nums) {
-    // if (nums.every(e => e === 0)) {
-    //     return 5
-    // } else {
     return nums.reduce((accumulator, currValue) => accumulator + currValue, 0)
-    // }
+
 }
 
 function reroll(nums) {
