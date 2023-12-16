@@ -4,8 +4,6 @@ import './Board.css'
 export default function Board({ color, mark, text, id, setIsFinal }) {
     const [move, setMove] = useState([])
 
-
-
     const changeMove = (color) => {
         if (move) {
             if (move !== mark) {

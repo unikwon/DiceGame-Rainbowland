@@ -40,6 +40,7 @@ export default function Manual() {
                 <li id="number">When a player stops and stays on <span id="blue"> blue spaces</span> after all <span id="movement"> movements</span>, player can take any direction on the next turn. </li>
             </ul>
             <br />
+            <p>Players can change the rules or set up their own rules.</p>
             <p id="rainbow" >Let's play and see who can ride rainbow first!!!</p>
         </div>
         // </Box >
