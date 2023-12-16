@@ -1,8 +1,11 @@
 .Board {
-    width: 100px;
-    height: 100px;
+    /* width: 100px;
+    height: 100px; */
+    width: 1.4em;
+    height: 1.4em;
+
     border-radius: 100px;
-    padding-top: 0.3%;
+    /* padding-top: 0.1%; */
     font-size: 70px;
     color: blue;
     text-align: center;

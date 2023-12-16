@@ -1,1 +1,1 @@
-This is dice board game with two players.
+This app is dice board game with two players.
